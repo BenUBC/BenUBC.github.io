@@ -1,1 +1,2 @@
-# BenUBC.github.io
+# photography
+Photography Template
