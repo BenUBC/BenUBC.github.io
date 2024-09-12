@@ -16,12 +16,12 @@ body{
 .bar {
   background-color: black;
   height: 200%;
-  width: 30px;
+  width: 0px;
   position: fixed;
 }
 
 .canvas.canvas-slid {
-  left: 245px;
+  left: 0px;
 }
 .social {
   /* margin: -25px 55px 21px; */
@@ -37,11 +37,11 @@ body{
 }
 
 a.navmenu-brand {
-  margin: 51px 0 80px;
+  margin: 0px 0 80px;
 }
 .canvas {
   position: relative;
-  left: 30px;
+  left: 0px;
 
 }
 .navmenu.navmenu-default.navmenu-fixed-left {
