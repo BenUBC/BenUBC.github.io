@@ -145,7 +145,7 @@ li.category-item a:hover {
   width: 100px;
   height: 100px;
   background: #0D8;
-  border: 2px solid black;
+  border: 2px solid white;
   border-color: black;
 }
 
@@ -334,7 +334,7 @@ textarea#message {
     padding: 0;
   }
   .gallery-header-center-right-links-current {
-    color: black;
+    color: white;
      background-color: transparent !important; 
 }
 .gallery-header-center-right-links:hover {
