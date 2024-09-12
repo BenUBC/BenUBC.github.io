@@ -374,7 +374,7 @@ h3.blog-post-title {
 @media (min-width:991px){
 .col-md-4.col-sm-12.contact-bar {
     margin-left: -30px;
-    background-color: white;
+    background-color: black;
 }
 .col-md-4.col-sm-12.contact-bar img {
     position: relative;
