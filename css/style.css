@@ -299,7 +299,7 @@ textarea#message {
 }
 
 .carousel-inner>.item>img {
-  width: 100%;
+  width: 50%;
   height: 100%;
 }
 
