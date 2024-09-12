@@ -208,7 +208,7 @@ h3.blog-post-title {
 }
 .col-md-4.col-sm-12.contact-bar {
    /* margin-left: -29px; */ 
-  background-color: white;
+  background-color: black;
   
    height: 713px;
 }
@@ -236,13 +236,13 @@ button#contact-submit {
 
 
 body.contact-page {
-    background-color: white;
+    background-color: black;
 }
 textarea#message {
     width: 100%;
 }
 .canvas.contact-page {
-    background-color: white;
+    background-color: black;
 }
 
 .carousel-indicators li {
