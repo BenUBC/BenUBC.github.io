@@ -33,7 +33,7 @@ body{
 }
 .canvas{
    background: rgb(15, 14, 14);
-   color: rgb(15, 14, 14);
+   color: rgb(128, 128, 128);
 }
 
 a.navmenu-brand {
@@ -91,11 +91,11 @@ html{
   margin: 0 auto;
 }
 h1.title-home {
-  color: black;
+  color: white;
   font-size: 20px;
 }
 h2.sub-title-home {
-  color: black;
+  color: white;
   margin-bottom: -15px;
   font-size: 15px;
 }
