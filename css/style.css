@@ -189,48 +189,7 @@ h3.blog-post-title {
 }
 
 
-/* ----------------------------------------------------
-  Sidebar
-------------------------------------------------------- */
 
-.post-category {
-  text-align: left;
-  padding: 13px 13px 0 21px;
-  text-transform: uppercase;
-}
-li.category-item {
-  list-style: none;
-  margin-left: -30px;
-}
-.category-item i.fa.fa-angle-right {
-  margin-right: 20px;
-}
-h4.sidebar-title {
-  margin-bottom: 10px;
-}
-h4.sidebar-title {
-  text-transform: uppercase;
-  text-align: left;
-}
-p.blog-text {
-  text-align: left;
-}
-h4.left-side.sidebar-title {
-  margin-top: -8px;
-}
-.blog-post-single {
-  margin-top: 23px;
-}
-
-
-#imagelightbox
-{
-    position: fixed;
-    z-index: 9999;
- 
-    -ms-touch-action: none;
-    touch-action: none;
-}
 
 /* ----------------------------------------------------
   Contact
@@ -310,7 +269,7 @@ textarea#message {
 
 @media (min-width: 1100px){
   p.blog-text-single {
-    width: 95%;
+    width: 100%;
     text-align: justify;
   
     margin-top: 20px;
