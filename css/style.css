@@ -13,6 +13,9 @@ img {
   pointer-events: none;
   width: 30%;
 }
+link {
+  pointer-events: none;
+}
 body{
   font-family: 'Raleway', sans-serif;
 }
