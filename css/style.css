@@ -11,6 +11,7 @@
 ------------------------------------------------------- */
 img {
   pointer-events: none;
+  width: 30%;
 }
 body{
   font-family: 'Raleway', sans-serif;
