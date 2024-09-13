@@ -9,6 +9,11 @@
 /* ----------------------------------------------------
   General
 ------------------------------------------------------- */
+a {
+  display: inline-block;
+  pointer-events: none;
+}
+
 .no-right-click{
   pointer-events: none;
 }
